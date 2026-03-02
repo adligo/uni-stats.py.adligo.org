@@ -10,7 +10,7 @@ In order to offset for this difference we added the following columns to weeklyW
 
  - B & H  The sum of the Bachelor's degree and Advanced degree divided by 2
  - B % The percentage of the Bachelor's degree over the value from the new B & H column
- - Average The average of all of the B % rows which turned out to be 79.5%
+ - Average The average of all of the B % rows which turned out to be 88.5%
 
 
 
