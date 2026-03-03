@@ -4,6 +4,8 @@ One of the challenges about getting statistics on college and higher education i
 
 # Notes
 
+In short, Numbers may never lie, but they often disagree.
+
 One of the first challenges you'll notice if you really take a look at this data is that sometimes data is split out in various ways that are hard to reassemble simply.  For example when you compare Citations 3 and 4, they both show average weekly earnings; however in Citation 4 people with bachelor's degrees and higher are lumped together while in citation number three, these are split out into separate values.  This creates a secondary statistical problem you have to solve first, which is to determine the correlation from years 2000 to 2021 of people with just bachelor's degrees and people with bachelor's degrees and higher to the data in citation 4.  If you want to see the data for people with just 4 year bachelors degrees.
 
 In order to offset for this difference we added the following columns to weeklyWages2000-2021.ods. 
@@ -12,7 +14,9 @@ In order to offset for this difference we added the following columns to weeklyW
  - B % The percentage of the Bachelor's degree over the value from the new B & H column
  - Average The average of all of the B % rows which turned out to be 88.5%
 
+- [weeklyWages2000-2021.ods](raw-data/weeklyWages2000-2021.ods)
 
+- [bls.gov survey comments](etc/BLS_SURVEY_COMMENTS.md)
 
 # Citations
 
@@ -62,3 +66,56 @@ Note Figures 2 and 4 don't really add up, as not employed != unemployed.
 
 - [weeklyWagesByQuarter2000-2024.csv in UTF-8](raw-data/weeklyWagesByQuarter2000-2024.csv)
 - [weeklyWagesByQuarter2000-2024.ods](raw-data/weeklyWagesByQuarter2000-2024.ods)
+
+### Citation 5
+
+ - [Cost of College 1963-2025](https://educationdata.org/average-cost-of-college-by-year)
+ - [Cost of College 1963-2025 (Saved as a PDF)](raw-data/Citation#5CostOfCollege1963-2025.pdf)
+ 
+##### Annual Cost of College Tuition & Fees
+
+- [collegeCosts1963-2022.csv  in UTF-8](raw-data/collegeCosts1963-2022.csv)
+- [collegeCosts1963-2022.ods](raw-data/collegeCosts1963-2022.ods)
+
+### Citation 6
+
+- [Per Student Debt 2007-2025](https://educationdata.org/average-student-loan-debt-by-year)
+- [Per Student Debt 2007-2025 (Saved as a PDF)](https://educationdata.org/average-student-loan-debt-by-year)
+
+##### Average Student Loan Debt by Year
+
+- [perStudentDebt2007-2025.csv in UTF-8](raw-data/perStudentDebt2007-2025.csv)
+- [perStudentDebt2007-2025.ods](raw-data/perStudentDebt2007-2025.ods)
+
+### Citation 7
+
+https://ticas.org/wp-content/uploads/2023/12/Quick-Facts-About-Student-Loan-Debt-2023.pdf
+
+Figure 2: Share of Completers with Student Loan Debt Over Time  
+
+### Citation 8 
+
+Citation#8CollegeEnrollmentAndWorkActivityfOfHighSchoolGraduatesNewsRelease-2024A01Results.pdf
+
+
+https://www.bls.gov/news.release/hsgec.htm
+
+
+### Citation 9
+
+https://www.lisep.org/tru
+https://cdn.prod.website-files.com/63ba0d84fe573c7513595d6e/699754c2a140ad45e4e4e124_TRU%20%26%20TWE%20Data%20January%202026.xlsx
+
+Note this is the whole population not just 25-33 year olds, like Figure 2 Citation 2.
+
+Renamed columns from raw-data/699754c2a140ad45e4e4e124_TRU%20%26%20TWE%20Data%20January%202026.xlsx to
+lisepUnemploymentMothly1995-2025.ods
+
+No High School from LISEP True Rate of Unemployment Out of the Population - No High School
+High School Degree from LISEP True Rate of Unemployment Out of the Population - High School Degree or Equivalent
+Some College from LISEP True Rate of Unemployment Out of the Population - Some College
+Bachelor's Degree from LISEP True Rate of Unemployment Out of the Population - Bachelor's Degree
+Advanced Degree from LISEP True Rate of Unemployment Out of the Population - Advanced Degree
+
+
+[699754c2a140ad45e4e4e124_TRU&TWEDataJanuary2026.ods](699754c2a140ad45e4e4e124_TRU&TWEDataJanuary2026.ods)

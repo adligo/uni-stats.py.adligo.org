@@ -1,0 +1,4 @@
+The data that comes out of the BLS is largely report-based.  These reports can add bias and actually often obfuscate data that could be much more clearly stated as raw data sets.  Often, additional metadata (extra columns) is added to the metadata, which makes it harder to digest.  All metadata sets should have version numbers (like API versioning), and the data reported should adhere to these version numbers, going back to the origin of the BLS.   For example, if we started counting the mean college annual tuition cost and then split that into public and private, at some point.  We should continue to report the legacy simple mean (including all public and private college tuition).    If we also wanted to split data out (by public and private college tuition) we could do that, but we should also report percentages of attendance, etc.   ...
+
+scott@adligo.com  
+https://github.com/adligo/uni-stats.py.adligo.org/blob/main/UNI_STATS_README.md
