@@ -119,3 +119,37 @@ Advanced Degree from LISEP True Rate of Unemployment Out of the Population - Adv
 
 
 [699754c2a140ad45e4e4e124_TRU&TWEDataJanuary2026.ods](699754c2a140ad45e4e4e124_TRU&TWEDataJanuary2026.ods)
+
+
+### Citation 10 
+
+Direct Python-UNO Bridge
+- [Webpage](https://www.openoffice.org/udk/python/python-bridge.html)
+- [Other Details](citation-details/Citation#10_details.md)
+
+### Citation 11
+
+- [Webpage](https://catalog.data.gov/dataset/labor-force-participation-rate-us-and-california)
+- [Raw UTF-8 CSV File](raw-data/labor_force_participation_rate__us_and_california.csv)
+- [Other Details](citation-details/Citation#11_details.md)
+
+### Citation 12
+
+- [Webpage](https://www.bls.gov/cps/tables.htm#weekearn)
+- [Raw UTF-8 CSV File](raw-data/laborForce2025.csv)
+- [Other Details](citation-details/Citation#12_details.md)
+
+### Citation 13
+
+https://nces.ed.gov/programs/digest/current_tables.asp
+
+Click current or 2025
+Chapter 5.  Outcomes of Education.
+Table 501.50
+  Why is 2023 the most recent year with data?
+  
+  
+### Citation 14
+
+https://www.bls.gov/cps/definitions.htm#:~:text=People%20waiting%20to%20start%20a,receipt%20of%2C%20unemployment%20insurance%20benefits.
+

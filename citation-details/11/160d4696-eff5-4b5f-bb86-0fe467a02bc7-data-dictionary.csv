@@ -1,0 +1,6 @@
+column,type,label,description
+Date,text,date,"The day, month, and year."
+Year,text,year,
+Month,text,month,
+California Labor Force Participation Rate,numeric,california_labor_force_participation,The number of people who are either employed or are actively looking for work in California.
+US Labor Force Participation Rate,numeric,us_labor_force_participation,The number of people who are either employed or are actively looking for work in the U.S.
