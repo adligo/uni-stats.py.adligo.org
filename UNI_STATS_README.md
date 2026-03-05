@@ -95,6 +95,7 @@ Figure 2: Share of Completers with Student Loan Debt Over Time
 
 ### Citation 8 
 
+https://www.bls.gov/news.release/hsgec.htm 
 Citation#8CollegeEnrollmentAndWorkActivityfOfHighSchoolGraduatesNewsRelease-2024A01Results.pdf
 
 

@@ -1,0 +1,38 @@
+<div id="et-boc" class="et-boc">
+      <div id="et_builder_outer_content" class="et_builder_outer_content">
+    
+      </div>
+    </div>
+    <div id="et-boc" class="et-boc">
+      <div id="et_builder_outer_content" class="et_builder_outer_content">
+    
+      </div>
+    </div>
+    <div id="et-boc" class="et-boc">
+      <div id="et_builder_outer_content" class="et_builder_outer_content">
+    
+      </div>
+    </div>
+    <div id="et-boc" class="et-boc">
+      <div id="et_builder_outer_content" class="et_builder_outer_content">
+    
+      </div>
+    </div>
+    <div id="et-boc" class="et-boc">
+      <div id="et_builder_outer_content" class="et_builder_outer_content">
+    
+      </div>
+    </div>
+    <div id="et-boc" class="et-boc">
+      <div id="et_builder_outer_content" class="et_builder_outer_content">
+    
+      </div>
+    </div>
+    # START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://ticas.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
